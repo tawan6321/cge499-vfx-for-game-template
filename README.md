@@ -16,7 +16,10 @@ Tool เอาไว้สำหรับเขียน Shader แบบ Visual
 Tool สำหรับสร้าง Particle Effect แบบพื้นฐาน สำหรับคนที่ไม่เคยเขียนโค้ดมาก่อน
 ## VFX Graph
 Tool สำหรับสร้าง Particle Effect แบบขั้นสูง เหมาะสำหรับคนที่เชี่ยวชาญ Visual Node
-
+วิธีลง
+- Package Manager
+- เลือก Unity Registry
+- VFX Graph
 ## Contanct Info
 เม่น
 menstood@gmail.com
